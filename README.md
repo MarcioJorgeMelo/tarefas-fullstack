@@ -1,4 +1,4 @@
-Projeto web services com React e NodeJs
+## Projeto web services com React e NodeJs
 
 Nessa aplicação full-stack **React** e **NodeJS** utilizo da implementação do modelo de domínio, estrutura de camadas lógicas, configuração e povoamento do banco via seed, CRUD, banco de dados Postgres em Docker e consumo de dados.
 
